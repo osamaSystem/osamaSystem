@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @osamaSystem "Osama Sayed"
-- 👀 I’m interested in mobile applications development using flutter framework and software quality assurance.
-- 🌱 I’m currently learning software testing and mobile apps development.
+- 👋 Hi, I’m @osamaSystem "Osama Sayed Hamdan"
+- 👀 I’m a Mobile Applications Developer working on Flutter, Android and iOS.
+- 🌱 I’m also interested in data science and machine learning.
 - 💞️ I’m looking to collaborate on flutter projects.
 - 📫 To reach me, contact me in my email : osama.sayed.mohammed@gmail.com
 
