@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @osamaSystem "Osama Sayed Hamdan" with wide experience since 2018.
+- 👋 Hi, I’m @osamaSystem "Osama Sayed Hamdan" having a wide professional experience in Software Field.
 - 👀 I’m a Mobile Applications Developer work on Flutter, Native Android & iOS and Web.
 - 🌱 I’m also interested in data science and machine learning.
 - 💞️ I’m looking to collaborate on flutter projects.
